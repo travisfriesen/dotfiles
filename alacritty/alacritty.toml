@@ -6,5 +6,6 @@ normal.family = "MesloLGS Nerd Font Mono"
 import = ["~/.config/alacritty/catppuccin-macchiato.toml"]
 
 [window]
+option_as_alt = "Both"
 #blur = true
 #opacity = 0.5
