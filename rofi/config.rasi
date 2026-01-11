@@ -1,0 +1,5 @@
+@import "catppuccin-default"
+
+configuration {
+	show-icons: true;
+}
